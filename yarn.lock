@@ -219,6 +219,30 @@
     "@babel/helper-validator-identifier" "^7.22.20"
     to-fast-properties "^2.0.0"
 
+"@biomejs/biome@1.6.2":
+  version "1.6.2"
+  resolved "https://registry.npmjs.org/@biomejs/biome/-/biome-1.6.2.tgz"
+  integrity sha512-vw6JhYnpLRRDaawI+d7NaQj17F7LSSJrgT03IQUETwRUG3Q1/a4ByJRphTVXPuhiTnaKVmUlEF3I5NSitcdD+g==
+  optionalDependencies:
+    "@biomejs/cli-darwin-arm64" "1.6.2"
+    "@biomejs/cli-darwin-x64" "1.6.2"
+    "@biomejs/cli-linux-arm64" "1.6.2"
+    "@biomejs/cli-linux-arm64-musl" "1.6.2"
+    "@biomejs/cli-linux-x64" "1.6.2"
+    "@biomejs/cli-linux-x64-musl" "1.6.2"
+    "@biomejs/cli-win32-arm64" "1.6.2"
+    "@biomejs/cli-win32-x64" "1.6.2"
+
+"@biomejs/cli-linux-x64-musl@1.6.2":
+  version "1.6.2"
+  resolved "https://registry.npmjs.org/@biomejs/cli-linux-x64-musl/-/cli-linux-x64-musl-1.6.2.tgz"
+  integrity sha512-uOVt4UBkFTFtdXgPX3QuSHRPVIvj07FP0P7A0UOP++idd0r9Bxyt5iIBaAORM3eQyGQqzCGPln1GuM6GalYKzg==
+
+"@biomejs/cli-linux-x64@1.6.2":
+  version "1.6.2"
+  resolved "https://registry.npmjs.org/@biomejs/cli-linux-x64/-/cli-linux-x64-1.6.2.tgz"
+  integrity sha512-S6Wc5YX6aLDLMzwlDmiw/kjK62Ex+xzE432M5ge9q8tSCluGeHIzrenrJlu8E0xPG2FEipDaK4iqwnjS9O6e2A==
+
 "@esbuild/linux-x64@0.20.2":
   version "0.20.2"
   resolved "https://registry.npmjs.org/@esbuild/linux-x64/-/linux-x64-0.20.2.tgz"

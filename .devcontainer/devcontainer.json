@@ -9,7 +9,8 @@
     "vscode": {
       "extensions": [
         "wix.vscode-import-cost",
-        "bradlc.vscode-tailwindcss"
+        "bradlc.vscode-tailwindcss",
+        "biomejs.biome"
       ]
     }
   },
