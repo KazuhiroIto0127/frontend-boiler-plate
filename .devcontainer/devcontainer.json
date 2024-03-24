@@ -1,0 +1,20 @@
+{
+  "name": "frontend boiler template",
+  "dockerComposeFile": [
+    "../compose.yaml"
+  ],
+  "service": "frontend",
+  "workspaceFolder": "/home/node/app",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "wix.vscode-import-cost",
+        "bradlc.vscode-tailwindcss"
+      ]
+    }
+  },
+  "forwardPorts": [
+    5173
+  ],
+  "remoteUser": "node"
+}
